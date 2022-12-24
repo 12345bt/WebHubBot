@@ -29,3 +29,4 @@ Twisted==17.5.0           # via scrapy
 urllib3==1.21.1           # via requests
 w3lib==1.17.0             # via parsel, scrapy
 zope.interface==4.4.2     # via twisted
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
