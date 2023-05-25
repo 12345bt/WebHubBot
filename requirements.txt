@@ -21,7 +21,7 @@ PyDispatcher==2.0.5       # via scrapy
 pymongo==3.4.0
 pyopenssl==17.0.0         # via scrapy, service-identity
 queuelib==1.4.2           # via scrapy
-requests==2.18.1
+requests==2.31.0
 Scrapy==1.4.0
 service-identity==17.0.0  # via scrapy
 six==1.10.0               # via automat, cryptography, parsel, pyopenssl, scrapy, w3lib
